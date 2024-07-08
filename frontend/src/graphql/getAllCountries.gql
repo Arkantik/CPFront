@@ -1,0 +1,8 @@
+query AllCountries {
+  countries {
+    id
+    code
+    name
+    emoji
+  }
+}
